@@ -1,0 +1,9 @@
+{
+  "name": "ArribaArribaMod",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DrKajo/ArribaArribaREPOModpack",
+  "description": "A comprehensive mod template for R.E.P.O game modifications",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.21"
+  ]
+}
